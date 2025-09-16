@@ -1,5 +1,9 @@
-# 💫 About Me:
-📚 Avid reader and movie buff<br>🏞️ Loves hiking and exploring new adventures<br>❤️ Passionate about building tools that are both fun and useful<br>🤖 AI/ML enthusiast & deep learning junkie<br>💬 Always up for discussing tech, books, or life
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=2C98F0&random=false&width=435&lines=Hi+There!+👋;I'm+Vibhum+Sharma!" alt="Typing SVG" />
+</div>
+
+# 💫 About Me
+## 📚 Avid reader and movie buff<br>🏞️ Loves hiking and exploring new adventures<br>❤️ Passionate about building tools that are both fun and useful<br>🤖 AI/ML enthusiast & deep learning junkie<br>💬 Always up for discussing tech, books, or life
 
 
 ## 🌐 Socials:

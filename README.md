@@ -122,7 +122,7 @@ PDF Ingestion → FAISS Vector Store → LangChain ConversationalRetrievalChain 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rovermask&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/rovermask)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rovermask&theme=tokyonight&hide_border=true)](https://github.com/rovermask)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rovermask&theme=tokyonight&hide_border=true)](https://github.com/rovermask)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rovermask&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/rovermask)
 
@@ -134,7 +134,7 @@ PDF Ingestion → FAISS Vector Store → LangChain ConversationalRetrievalChain 
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rovermask&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/rovermask)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rovermask&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/rovermask)
 
 </div>
 
@@ -155,6 +155,6 @@ If you're building something interesting with AI/ML, or you're a recruiter with 
 
 *✨ "The best model is the one that's deployed." — Vibhum Sharma*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rovermask&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=rovermask&color=2C98F0&style=flat-square&label=Profile+Views)
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2C98F0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vibhum+Sharma+%F0%9F%91%8B;ML+Engineer+%7C+AI+Engineer;Python+Backend+Developer;Building+AI+Systems+That+Ship+to+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2C98F0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vibhum+Sharma+%F0%9F%91%8B;ML+Engineer+%7C+AI+Engineer;Python+Backend+Developer)](https://git.io/typing-svg)
 
 **MCA Graduate · Python · ML/AI · FastAPI/Flask/Django**
 

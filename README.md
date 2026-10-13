@@ -25,7 +25,7 @@ I build AI systems that go from prototype to production: ML models, computer-vis
 - 🔵 **Microsoft Azure AI-900** certified
 - 📄 Patent application: *A System for Pulmonary Tuberculosis Detection* (CNN-based)
 - 🌱 Currently learning: **RAG systems** and **LLM integration**
-- 📍 Prayagraj, India · Open to ML Engineering, AI Engineering and Python Backend roles
+- 📍 Prayagraj, India · Open to research collaborations and internships, and applying for ML Engineer, AI Engineer and Data Analyst roles
 
 ---
 
@@ -126,7 +126,7 @@ Full list on the [portfolio](https://vibhumsharma.vercel.app).
 
 ### 💬 Let's Connect
 
-I'm open to **ML Engineer · AI Engineer · Python Backend** roles in India, and happy to talk research or collaborations.
+I'm open to **research collaborations and internships**, and I'm applying for **ML Engineer · AI Engineer · Data Analyst** roles alongside my Ph.D.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C98F0?style=for-the-badge&logo=vercel&logoColor=white)](https://vibhumsharma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhum-sharma-10j)
